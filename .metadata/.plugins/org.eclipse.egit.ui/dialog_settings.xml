@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="sortItemState" value="false"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="/Users/ranbeerayush/git/repository2/.git">
+			<item value="true"/>
+			<item value="ranbeerayush &lt;ranbeerayush@ranbeers-air&gt;"/>
+			<item value="&#x0D;&#x0D;Signed-off-by: ranbeerayush &lt;ranbeerayush@ranbeers-air&gt;git init&#x0D;Signed-off-by: ranbeerayush &lt;ranbeerayush@ranbeers-air&gt;git init&#x0D;Signed-off-by: ranbeerayush &lt;ranbeerayush@ranbeers-air&gt;cd "/>
+			<item value="ranbeerayush &lt;ranbeerayush@ranbeers-air&gt;"/>
+			<item value="0000000000000000000000000000000000000000"/>
+			<item value="0"/>
+			<item value="true"/>
+		</list>
+	</section>
+</section>
